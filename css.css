@@ -1,0 +1,144 @@
+
+
+.top-image{
+  width: 700px;
+  height: 400px;
+  margin: 0px;
+}
+.Bascket{
+  height: 300px;
+  width: 300px;
+}
+body{
+  background-color:#1b1a17;
+  text-align: center;
+}
+.name{
+  font-family: cursive;
+  font-size: 60px;
+  text-align: center;
+  margin: 0px;
+  background-color: orange;
+}
+.work{
+  font-size: 30px;
+  margin: 10px;
+  color: white;
+}
+.span{
+  text-decoration: underline;
+  background-color: orange;
+  color: black;
+
+
+}
+.profile{
+  margin-top: 10px;
+  height: 300px;
+  width: 300px;
+}
+.para{
+  font-size: 20px;
+}
+.skills{
+  background-color: orange;
+}
+.middle-container{
+  text-align: center;
+
+
+}
+
+.skills-summary
+{
+  font-size:20px;
+  color: white;
+
+}
+.School{
+  font-size: 20px;
+
+}
+.heading
+{
+  background-color: orange;
+  margin-left:0;
+  margin-right:0 ;
+  margin-top: 40px;
+}
+.hello
+{
+  margin-left: 575px;
+  margin-right: 575px;
+  background-color: orange;
+}
+.myskills{
+  margin-left: 568px;
+  margin-right: 568px;
+  background-color: orange;
+}
+.touch{
+  font-size: 40px;
+}
+.webphoto{
+  height: 300px;
+  width: 300px;
+}
+.para
+{
+  color: #f0e3ca;
+}
+.college{
+  color: #f0e3ca;
+  font-size: 20px;
+}
+.horizontal{
+  border-style: none none dotted;
+    background-color:orange;
+    width: 25%;
+    border-width: 2px;
+}
+
+.contactdetails
+{
+  background-color: orange;
+}
+.facebook{
+  height:40px;
+  width:40px;
+  position: relative;
+  right: 50px;
+}
+.linkedin{
+  height:40px;
+  width:40px;
+  position: relative;
+  left: 40px;
+
+}
+.twitter{
+  height:40px;
+  width:40px;
+  position: relative;
+  right: 10px;
+}
+.downarray{
+  height:60px;
+  width:60px;
+
+}
+
+
+.touch{
+  background-color: orange;
+  margin-left:0px;
+  margin-right: 0px;
+  margin-top: 40px;
+
+}
+.copyright{
+  font-size: 25px;
+}
+.mailid{
+  font-size: 25px;
+}
